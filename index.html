@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <meta name="generator" content="pandoc">
+  <title>Pewen</title>
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no, minimal-ui">
+  <link rel="stylesheet" href="reveal.js/css/reveal.css">
+  <style type="text/css">
+      code{white-space: pre-wrap;}
+      span.smallcaps{font-variant: small-caps;}
+      span.underline{text-decoration: underline;}
+      div.column{display: inline-block; vertical-align: top; width: 50%;}
+  </style>
+  <link rel="stylesheet" href="reveal.js/css/theme/mozilla-devrel-dark.css" id="theme">
+  <!-- Printing and PDF exports -->
+  <script>
+    var link = document.createElement( 'link' );
+    link.rel = 'stylesheet';
+    link.type = 'text/css';
+    link.href = window.location.search.match( /print-pdf/gi ) ? 'reveal.js/css/print/pdf.css' : 'reveal.js/css/print/paper.css';
+    document.getElementsByTagName( 'head' )[0].appendChild( link );
+  </script>
+  <!--[if lt IE 9]>
+  <script src="reveal.js/lib/js/html5shiv.js"></script>
+  <![endif]-->
+</head>
+<body>
+  <div class="reveal">
+    <div class="slides">
+
+
+<section id="pewen" class="slide level1">
+<h1>Pewen</h1>
+<h2 id="combinando-matemática-y-tic">Combinando matemática y TIC</h2>
+</section>
+<section id="áreas-de-trabajo" class="slide level1">
+<h1>Áreas de trabajo</h1>
+<p>Modelado matemáticos, análisis de datos <br> Generar el modelo matemático desde cero <br> Implementación computacional <br> Optimizaciones computacionales <br> Implementación y análisis de machine learning <br> Automatización de procesos <br> Visualización <br> GUI con HTML5</p>
+</section>
+<section id="tecnologías" class="slide level1">
+<h1>Tecnologías</h1>
+<p>Python y C <br> D3 <br> JavaScript <br> Docker <br> GNU/Linux <br> machine learning <br> NoSQL database</p>
+</section>
+<section id="algunos-proyectos" class="slide level1">
+<h1>Algunos proyectos</h1>
+</section>
+<section id="uvml---simulación-de-perfiles-alares" class="slide level1">
+<h1>UVML - Simulación de perfiles alares</h1>
+<p>UVML es un código desarrollado para hacer simulaciones de perfiles alares. El problema principal era el tiempo de la simulación.</p>
+<p>Originalmente tardaba 1 semana, pero después de optimizaciones matemáticas y numéricas tarda 3 horas. La version final corre en 80 cores.</p>
+</section>
+<section id="ten---simulaciones-cuánticas" class="slide level1">
+<h1>TEN - Simulaciones cuánticas</h1>
+<p>TEN es un software para análisis cuánticos químicos. En este caso desarrollamos el modelo matemático y también la implementación numérica para correr en muchos procesadores</p>
+</section>
+<section id="observatorio-de-corrupción" class="slide level1">
+<h1>Observatorio de corrupción</h1>
+<p>En este proyecto la idea es mostrar datos públicos del Estado. Todos los días scrapeamos http://www.cij.gob.ar para luego analizarlo y generar una interfaz gráfica.</p>
+<p>más de 5000 PDFs para extraer información <br> Scrapeo diario de 500 causas <br> Visualizaciones automáticas con nuevos datos</p>
+</section>
+<section id="qué-es-socios.red" class="slide level1">
+<h1>¿Qué es Socios.red?</h1>
+<p>1 millón de empresas <br> 2 millones de personas <br> Funcionarios públicos <br> 60 mil aportes a campañas políticas <br> Compras del Estado <br> <a href="https://secret-device-211719.appspot.com/">socios.red</a></p>
+</section>
+    </div>
+  </div>
+
+  <script src="reveal.js/lib/js/head.min.js"></script>
+  <script src="reveal.js/js/reveal.js"></script>
+
+  <script>
+
+      // Full list of configuration options available at:
+      // https://github.com/hakimel/reveal.js#configuration
+      Reveal.initialize({
+        // Push each slide change to the browser history
+        history: true,
+
+        // Optional reveal.js plugins
+        dependencies: [
+          { src: 'reveal.js/lib/js/classList.js', condition: function() { return !document.body.classList; } },
+          { src: 'reveal.js/plugin/zoom-js/zoom.js', async: true },
+          { src: 'reveal.js/plugin/notes/notes.js', async: true }
+        ]
+      });
+    </script>
+    </body>
+</html>
