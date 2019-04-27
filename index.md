@@ -51,8 +51,8 @@ En este proyecto la idea es mostrar datos públicos del Estado. Todos los días 
 
 más de 5000 PDFs para extraer información <br>
 Scrapeo diario de 500 causas <br>
-Visualizaciones automáticas con nuevos datos
-[Observatorio de Causas de Corrupcion](http://conocimientoabierto.org/observatorio-corrupcion/)
+Visualizaciones automáticas con nuevos datos<br>
+[Observatorio de Causas de Corrupción](http://conocimientoabierto.org/observatorio-corrupcion/)
 
 # ¿Qué es Socios.red?
 1 millón de empresas <br>
