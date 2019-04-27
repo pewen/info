@@ -5,6 +5,14 @@ pagetitle: Pewen
 # Pewen
 ## Combinando matemática y TIC
 
+# Curriculum
+Formación en Física y Matemática<br>
+Análisis de grandes cantidades de datos<br>
+Programación científica<br>
+Ciencia de Datos y machine learning<br>
+Visualizaciones de datos<br>
+
+
 # Áreas de trabajo
 
  Modelado matemáticos, análisis de datos <br>
@@ -18,7 +26,7 @@ pagetitle: Pewen
 
 # Tecnologías
 
- Python y C <br>
+ Python, Lua y C <br>
  D3 <br>
  JavaScript <br>
  Docker <br>
@@ -44,6 +52,7 @@ En este proyecto la idea es mostrar datos públicos del Estado. Todos los días 
 más de 5000 PDFs para extraer información <br>
 Scrapeo diario de 500 causas <br>
 Visualizaciones automáticas con nuevos datos
+[Observatorio de Causas de Corrupcion](http://conocimientoabierto.org/observatorio-corrupcion/)
 
 # ¿Qué es Socios.red?
 1 millón de empresas <br>
@@ -52,3 +61,8 @@ Funcionarios públicos <br>
 60 mil aportes a campañas políticas <br>
 Compras del Estado <br>
 [socios.red](https://secret-device-211719.appspot.com/)
+
+# Premios y reconocimientos
+Nasa Space App<br>
+Ciencia de Datos, Fundación Sadosky<br>
+Hackathons
