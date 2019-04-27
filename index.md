@@ -27,8 +27,7 @@ Visualizaciones de datos<br>
 # Tecnologías
 
  Python, Lua y C <br>
- D3 <br>
- JavaScript <br>
+ D3 - JavaScript <br>
  Docker <br>
  GNU/Linux <br>
  machine learning <br>
@@ -63,6 +62,7 @@ Compras del Estado <br>
 [socios.red](https://secret-device-211719.appspot.com/)
 
 # Premios y reconocimientos
-Nasa Space App<br>
-Ciencia de Datos, Fundación Sadosky<br>
-Hackathons
+NASA Space Apps; Best Mission Concept, equipo “Piratas de Cascotes”, Buenos
+Aires<br>
+“Predicción de Clicks” organizada por Jampp y el Programa de Ciencia de Datos de la Fundación Sadosky.<br>
+Hackaton Agro Datos; 3er puesto, equipo “Germineitor”, FaMAF, Córdoba
