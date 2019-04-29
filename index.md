@@ -54,13 +54,22 @@ Scrapeo diario de 500 causas <br>
 Visualizaciones automáticas con nuevos datos<br>
 [Observatorio de Causas de Corrupción](http://conocimientoabierto.org/observatorio-corrupcion/)
 
-# ¿Qué es Socios.red?
+# Socios.red
 1 millón de empresas <br>
 2 millones de personas <br>
 Funcionarios públicos <br>
 60 mil aportes a campañas políticas <br>
 Compras del Estado <br>
 [socios.red](https://secret-device-211719.appspot.com/)
+
+# AMBA en datos
+
++400 bases de datos<br>
+distintas tipos de datos georeferenciados: puntos, líneas, poligonoss, municipios<br>
+plots multi capa sobre el mapa y gráficos adicionales como treemap y bar plots<br>
+interfaz web mobile responsibe
+
+
 
 # Premios y reconocimientos
 Nasa Space App<br>
