@@ -73,4 +73,4 @@ interfaz web mobile responsible
 NASA Space Apps; Best Mission Concept, equipo “Piratas de Cascotes”, Buenos
 Aires<br>
 “Predicción de Clicks” organizada por Jampp y el [Programa de Ciencia de Datos de la Fundación Sadosky](http://www.fundacionsadosky.org.ar/programas/pcd/)<br>
-Hackaton Agro Datos; 3er puesto, equipo “Germineitor”, FaMAF, Córdoba
+[Hackaton Agro Datos](http://www.fundacionsadosky.org.ar/agrodatos/); 3er puesto, equipo “Germineitor”, FaMAF, Córdoba
