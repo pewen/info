@@ -42,7 +42,7 @@ UVML es un código desarrollado para hacer simulaciones de perfiles alares. El p
 Originalmente tardaba 1 semana, pero después de optimizaciones matemáticas y numéricas tarda 3 horas. La version final corre en 80 cores.
 
 # TEN - Simulaciones cuánticas
-TEN es un software para análisis cuánticos químicos. En este caso desarrollamos el modelo matemático y también la implementación numérica para correr en muchos procesadores
+TEN es un software para análisis cuánticos químicos. En este caso desarrollamos el modelo matemático y también la implementación numérica para correr en cluster.
 
 [https://github.com/pewen/ten](https://github.com/pewen/ten)<br>
 [XVII Giambiagi Winter School. Light and light-based technologies](https://github.com/pewen/ten.extras/raw/master/2015_Giambiagi/poster_Giambiani.compressed.pdf), dpto de Física, UBA
