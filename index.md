@@ -74,7 +74,7 @@ interfaz web mobile responsible
 # ![](img/Screenshot_2019-04-27_10-25-58.png)
 
 # Workshops
-[Workshop on Advanced Techniques for Scientific Programming](http://indico.ictp.it/event/a14258/), São Paulo, Brazil<br>
+[Advanced Techniques for Scientific Programming](http://indico.ictp.it/event/a14258/), São Paulo, Brazil<br>
 [Astro Hack Week 2016](http://astrohackweek.org/2016/), Berkeley, CA<br><br>
 
 ## Curso dictado
