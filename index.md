@@ -39,10 +39,10 @@ Visualización de datos<br>
 # UVML - Simulación de perfiles alares
 UVML es un código desarrollado para hacer simulaciones de perfiles alares. El problema principal era el tiempo de la simulación.
 
-Originalmente tardaba 1 semana, pero después de optimizaciones matemáticas y numéricas tarda 3 horas. La version final corre en 80 cores.
+Originalmente tardaba 1 semana. Luego de optimizaciones matemáticas y numéricas tarda 3 horas. Corre en 80 cores.
 
 # TEN - Simulaciones cuánticas
-TEN es un software para análisis cuánticos químicos. En este caso desarrollamos el modelo matemático y también la implementación numérica para correr en cluster.
+Software para análisis cuánticos químicos. En este caso desarrollamos el modelo matemático y la implementación numérica para correr en cluster.
 
 [https://github.com/pewen/ten](https://github.com/pewen/ten)<br>
 [XVII Giambiagi Winter School. Light and light-based technologies](https://github.com/pewen/ten.extras/raw/master/2015_Giambiagi/poster_Giambiani.compressed.pdf), dpto de Física, UBA
@@ -74,7 +74,7 @@ interfaz web mobile responsible
 # ![](img/Screenshot_2019-04-27_10-25-58.png)
 
 # Workshops
-[Advanced Techniques for Scientific Programming](http://indico.ictp.it/event/a14258/), São Paulo, Brazil<br>
+[Advanced Techniques for Scientific Programming](http://indico.ictp.it/event/a14258/), Brazil<br>
 [Astro Hack Week 2016](http://astrohackweek.org/2016/), Berkeley, CA<br><br>
 
 ## Curso dictado
