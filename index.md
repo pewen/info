@@ -9,12 +9,11 @@ Combinando matemática y TIC
 > Presentación para Rakiduamn
 
 # Curriculum
-Formación en Física y Matemática<br>
+Sólida formación en Física y Matemática<br>
 Análisis de grandes cantidades de datos<br>
 Programación científica<br>
 Ciencia de Datos y machine learning<br>
 Visualización de datos<br>
-
 
 # Áreas de trabajo
  Modelado matemáticos, análisis de datos<br>
@@ -27,11 +26,11 @@ Visualización de datos<br>
  GUI con HTML5
 
 # Tecnologías
- Python, Lua y C<br>
+ Python, Lua, Fortran, C<br>
  D3 - JavaScript<br>
  Docker<br>
  GNU/Linux<br>
- machine learning<br>
+ Machine learning<br>
  NoSQL database
 
 # Algunos proyectos
@@ -97,7 +96,7 @@ A partir de los datos que releva [Aluar](https://www.aluar.com.ar/) en las cubas
 [Programación Científica en Python](https://pewen.tk/wpc/), Departamento de Ciencias de la Atmósfera y los Océanos, Exáctas, UBA
 
 # Premios y reconocimientos
-NASA Space Apps; Best Mission Concept, “Piratas de Cascotes”, Bs As<br>
-NASA Space Apps: [Pollen Alert](https://youtu.be/9M91NDIaKHo) - Global Winner<br>
+NASA Space Apps Challenge: Best Mission Concept, “Piratas de Cascotes”, Bs As<br>
+NASA Space Apps Challenge: [Pollen Alert](https://youtu.be/9M91NDIaKHo) - Global Winner<br>
 “Predicción de Clicks”, 1er puesto. [Jampp](https://jampp.com/) y [Programa de Ciencia de Datos de Fundación Sadosky](http://www.fundacionsadosky.org.ar/programas/pcd/)<br>
-[Hackaton Agro Datos](http://www.fundacionsadosky.org.ar/agrodatos/), 3er puesto, equipo “Germineitor”, FaMAF, Córdoba
+[Hackaton Agro Datos](http://www.fundacionsadosky.org.ar/agrodatos/), 3er puesto, “Germineitor”, FaMAF, Córdoba
