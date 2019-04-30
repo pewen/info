@@ -44,7 +44,8 @@ Originalmente tardaba 1 semana, pero después de optimizaciones matemáticas y n
 # TEN - Simulaciones cuánticas
 TEN es un software para análisis cuánticos químicos. En este caso desarrollamos el modelo matemático y también la implementación numérica para correr en muchos procesadores
 
-[https://github.com/pewen/ten](https://github.com/pewen/ten)
+[https://github.com/pewen/ten](https://github.com/pewen/ten)<br>
+[poster Giambiani](https://github.com/pewen/ten.extras/raw/master/2015_Giambiagi/poster_Giambiani.compressed.pdf)
 
 # Observatorio de corrupción
 En este proyecto la idea es mostrar datos públicos del Estado. Todos los días scrapeamos http://www.cij.gob.ar para luego analizarlo y generar una interfaz gráfica.
