@@ -17,7 +17,7 @@ Visualización de datos<br>
  Modelado matemáticos, análisis de datos<br>
  Generar el modelo matemático desde cero<br>
  Implementación computacional<br>
- Optimizaciones computacionales<br>
+ Optimización computacional<br>
  Implementación y análisis de machine learning<br>
  Automatización de procesos<br>
  Visualización<br>
