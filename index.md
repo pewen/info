@@ -63,7 +63,7 @@ Compras del Estado <br>
 más de 400 bases de datos<br>
 distintos tipos de datos georeferenciados: puntos, líneas, polígonos, municipios<br>
 plots multi capa sobre el mapa y gráficos adicionales como treemap y bar plots<br>
-interfaz web mobile responsibe
+interfaz web mobile responsible
 
 # ![](img/Screenshot_2019-04-27_10-24-06.png)
 
