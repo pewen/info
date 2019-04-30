@@ -59,7 +59,7 @@ Compras del Estado <br>
 
 # AMBA en datos
 más de 400 bases de datos<br>
-distintas tipos de datos georeferenciados: puntos, líneas, polígonos, municipios<br>
+distintos tipos de datos georeferenciados: puntos, líneas, polígonos, municipios<br>
 plots multi capa sobre el mapa y gráficos adicionales como treemap y bar plots<br>
 interfaz web mobile responsibe
 
