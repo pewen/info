@@ -47,6 +47,13 @@ Software para análisis cuánticos químicos. En este caso desarrollamos el mode
 [https://github.com/pewen/ten](https://github.com/pewen/ten)<br>
 [XVII Giambiagi Winter School. Light and light-based technologies](https://github.com/pewen/ten.extras/raw/master/2015_Giambiagi/poster_Giambiani.compressed.pdf), dpto de Física, UBA
 
+# Mapeo interactivo y análisis de Cortaderos de Ladrillos
+Desarrollo de una aplicación web para mapeo colectivo. Además se cruzaron datos con los del censo nacional para crear gráficos de las distribuciones de acceso a diferentes servicios básicos desde los cortaderos.
+
+[Muertes infantiles y marginalidad detrás de los ladrillos cordobeses]( https://www.chequeado.com/investigacion/muertes-infantiles-y-marginalidad-detras-de-los-ladrillos-cordobeses/)
+
+# ![](img/cortaderos.jpeg)
+
 # Observatorio de corrupción
 En este proyecto la idea es mostrar datos públicos del Estado. Todos los días scrapeamos www.cij.gob.ar para analizarlo y generar una interfaz gráfica.
 
