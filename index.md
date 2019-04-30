@@ -41,6 +41,8 @@ Originalmente tardaba 1 semana, pero después de optimizaciones matemáticas y n
 # TEN - Simulaciones cuánticas
 TEN es un software para análisis cuánticos químicos. En este caso desarrollamos el modelo matemático y también la implementación numérica para correr en muchos procesadores
 
+[https://github.com/pewen/ten](https://github.com/pewen/ten)
+
 # Observatorio de corrupción
 En este proyecto la idea es mostrar datos públicos del Estado. Todos los días scrapeamos http://www.cij.gob.ar para luego analizarlo y generar una interfaz gráfica.
 
@@ -62,6 +64,10 @@ más de 400 bases de datos<br>
 distintos tipos de datos georeferenciados: puntos, líneas, polígonos, municipios<br>
 plots multi capa sobre el mapa y gráficos adicionales como treemap y bar plots<br>
 interfaz web mobile responsibe
+
+# ![](img/Screenshot_2019-04-27_10-24-06.png)
+
+# ![](img/Screenshot_2019-04-27_10-25-58.png)
 
 # Premios y reconocimientos
 NASA Space Apps; Best Mission Concept, equipo “Piratas de Cascotes”, Buenos
