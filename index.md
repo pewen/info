@@ -72,5 +72,6 @@ interfaz web mobile responsible
 # Premios y reconocimientos
 NASA Space Apps; Best Mission Concept, equipo “Piratas de Cascotes”, Buenos
 Aires<br>
+NASA Space Apps: [Pollen Alert](https://youtu.be/9M91NDIaKHo) - Global Winner<br>
 “Predicción de Clicks” organizada por Jampp y el [Programa de Ciencia de Datos de la Fundación Sadosky](http://www.fundacionsadosky.org.ar/programas/pcd/)<br>
 [Hackaton Agro Datos](http://www.fundacionsadosky.org.ar/agrodatos/); 3er puesto, equipo “Germineitor”, FaMAF, Córdoba
