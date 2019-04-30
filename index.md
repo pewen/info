@@ -36,8 +36,8 @@ Visualización de datos<br>
 
 # Algunos proyectos
 
-# UVML - Simulación de perfiles alares
-UVML es un código desarrollado para hacer simulaciones de perfiles alares. El problema principal era el tiempo de la simulación.
+# Unsteady Vortex Lattice Method
+UVLM es un código desarrollado en Fortran para hacer simulaciones de perfiles alares. El problema principal era el tiempo de la simulación.
 
 Originalmente tardaba 1 semana. Luego de optimizaciones matemáticas y numéricas tarda 3 horas. Corre en 80 cores.
 
