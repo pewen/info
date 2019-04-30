@@ -48,7 +48,7 @@ Software para análisis cuánticos químicos. En este caso desarrollamos el mode
 [XVII Giambiagi Winter School. Light and light-based technologies](https://github.com/pewen/ten.extras/raw/master/2015_Giambiagi/poster_Giambiani.compressed.pdf), dpto de Física, UBA
 
 # Observatorio de corrupción
-En este proyecto la idea es mostrar datos públicos del Estado. Todos los días scrapeamos http://www.cij.gob.ar para luego analizarlo y generar una interfaz gráfica.
+En este proyecto la idea es mostrar datos públicos del Estado. Todos los días scrapeamos www.cij.gob.ar para analizarlo y generar una interfaz gráfica.
 
 más de 5000 PDFs para extraer información<br>
 Scrapeo diario de 500 causas<br>
