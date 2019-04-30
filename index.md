@@ -73,6 +73,13 @@ interfaz web mobile responsible
 
 # ![](img/Screenshot_2019-04-27_10-25-58.png)
 
+# Taller de Matemática Industrial
+A partir de los datos que releva ALUAR en las cubas de producción de aluminio generamos un modelo matemático y numérico para simular el consumo de aluminita
+
+[Taller de Matemática Industrial 2018](http://mate.dm.uba.ar/~tami2018/), Exactas, UBA
+
+# ![](img/tami2019.png)
+
 # Workshops
 [Advanced Techniques for Scientific Programming](http://indico.ictp.it/event/a14258/), Brazil<br>
 [Astro Hack Week 2016](http://astrohackweek.org/2016/), Berkeley, CA<br><br>
@@ -81,8 +88,7 @@ interfaz web mobile responsible
 [Programación Científica en Python](https://pewen.tk/wpc/), Departamento de Ciencias de la Atmósfera y los Océanos, Exáctas, UBA
 
 # Premios y reconocimientos
-NASA Space Apps; Best Mission Concept, equipo “Piratas de Cascotes”, Buenos
-Aires<br>
+NASA Space Apps; Best Mission Concept, “Piratas de Cascotes”, Bs As<br>
 NASA Space Apps: [Pollen Alert](https://youtu.be/9M91NDIaKHo) - Global Winner<br>
-“Predicción de Clicks” organizada por Jampp y el [Programa de Ciencia de Datos de la Fundación Sadosky](http://www.fundacionsadosky.org.ar/programas/pcd/)<br>
-[Hackaton Agro Datos](http://www.fundacionsadosky.org.ar/agrodatos/); 3er puesto, equipo “Germineitor”, FaMAF, Córdoba
+“Predicción de Clicks”, 1er puesto. [Jampp](https://jampp.com/) y [Programa de Ciencia de Datos de Fundación Sadosky](http://www.fundacionsadosky.org.ar/programas/pcd/)<br>
+[Hackaton Agro Datos](http://www.fundacionsadosky.org.ar/agrodatos/), 3er puesto, equipo “Germineitor”, FaMAF, Córdoba
