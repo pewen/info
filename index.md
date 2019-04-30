@@ -73,12 +73,14 @@ interfaz web mobile responsible
 
 # ![](img/Screenshot_2019-04-27_10-25-58.png)
 
-# Curso dictado
+# Workshops
+[Workshop on Advanced Techniques for Scientific Programming](http://indico.ictp.it/event/a14258/), São Paulo, Brazil<br>
+[Astro Hack Week 2016](http://astrohackweek.org/2016/), Berkeley, CA<br><br>
+
+## Curso dictado
 [Programación Científica en Python](https://pewen.tk/wpc/), Departamento de Ciencias de la Atmósfera y los Océanos, Exáctas, UBA
 
-# Workshops, Premios y reconocimientos
-[Workshop on Advanced Techniques for Scientific Programming](http://indico.ictp.it/event/a14258/), São Paulo, Brazil<br>
-[Astro Hack Week 2016](http://astrohackweek.org/2016/), Berkeley, CA<br>
+# Premios y reconocimientos
 NASA Space Apps; Best Mission Concept, equipo “Piratas de Cascotes”, Buenos
 Aires<br>
 NASA Space Apps: [Pollen Alert](https://youtu.be/9M91NDIaKHo) - Global Winner<br>
