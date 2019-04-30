@@ -45,7 +45,7 @@ Originalmente tardaba 1 semana, pero después de optimizaciones matemáticas y n
 TEN es un software para análisis cuánticos químicos. En este caso desarrollamos el modelo matemático y también la implementación numérica para correr en muchos procesadores
 
 [https://github.com/pewen/ten](https://github.com/pewen/ten)<br>
-[poster Giambiani](https://github.com/pewen/ten.extras/raw/master/2015_Giambiagi/poster_Giambiani.compressed.pdf)
+[XVII Giambiagi Winter School. Light and light-based technologies](https://github.com/pewen/ten.extras/raw/master/2015_Giambiagi/poster_Giambiani.compressed.pdf), dpto de Física, UBA
 
 # Observatorio de corrupción
 En este proyecto la idea es mostrar datos públicos del Estado. Todos los días scrapeamos http://www.cij.gob.ar para luego analizarlo y generar una interfaz gráfica.
@@ -74,7 +74,7 @@ interfaz web mobile responsible
 # ![](img/Screenshot_2019-04-27_10-25-58.png)
 
 # Curso dictado
-[Programación Científica en Python](https://pewen.tk/wpc/), UBA
+[Programación Científica en Python](https://pewen.tk/wpc/), Departamento de Ciencias de la Atmósfera y los Océanos, Exáctas, UBA
 
 # Workshops, Premios y reconocimientos
 [Workshop on Advanced Techniques for Scientific Programming](http://indico.ictp.it/event/a14258/), São Paulo, Brazil<br>
