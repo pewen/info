@@ -62,13 +62,10 @@ Compras del Estado <br>
 [socios.red](https://secret-device-211719.appspot.com/)
 
 # AMBA en datos
-
 +400 bases de datos<br>
 distintas tipos de datos georeferenciados: puntos, líneas, poligonoss, municipios<br>
 plots multi capa sobre el mapa y gráficos adicionales como treemap y bar plots<br>
 interfaz web mobile responsibe
-
-
 
 # Premios y reconocimientos
 NASA Space Apps; Best Mission Concept, equipo “Piratas de Cascotes”, Buenos
