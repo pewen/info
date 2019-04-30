@@ -66,5 +66,5 @@ interfaz web mobile responsibe
 # Premios y reconocimientos
 NASA Space Apps; Best Mission Concept, equipo “Piratas de Cascotes”, Buenos
 Aires<br>
-“Predicción de Clicks” organizada por Jampp y el Programa de Ciencia de Datos de la Fundación Sadosky<br>
+“Predicción de Clicks” organizada por Jampp y el [Programa de Ciencia de Datos de la Fundación Sadosky](http://www.fundacionsadosky.org.ar/programas/pcd/)<br>
 Hackaton Agro Datos; 3er puesto, equipo “Germineitor”, FaMAF, Córdoba
