@@ -3,7 +3,7 @@ pagetitle: Pewen
 ---
 
 # Pewen
-## Combinando matemática y TIC
+Combinando matemática y TIC
 
 # Curriculum
 Formación en Física y Matemática<br>
