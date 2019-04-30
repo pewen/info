@@ -74,7 +74,7 @@ interfaz web mobile responsible
 # ![](img/Screenshot_2019-04-27_10-25-58.png)
 
 # Taller de Matemática Industrial
-A partir de los datos que releva ALUAR en las cubas de producción de aluminio generamos un modelo matemático y numérico para simular el consumo de aluminita
+A partir de los datos que releva [Aluar](https://www.aluar.com.ar/) en las cubas de producción de aluminio generamos un modelo matemático y numérico para simular el consumo de aluminita
 
 [Taller de Matemática Industrial 2018](http://mate.dm.uba.ar/~tami2018/), Exactas, UBA
 
