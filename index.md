@@ -3,7 +3,7 @@ pagetitle: Pewen
 ---
 
 # Pewen
-Combinando matemática y TIC
+Matemática & TIC
 <br><br>
 
 > Presentación para Rakiduamn
@@ -24,7 +24,7 @@ Visualización de datos<br>
  Automatización de procesos repetitivos<br>
  Visualización<br>
  Procesamiento de imágenes satelitáles<br>
- GUI con HTML5
+ GUI HTML5
 
 # Tecnologías
  Python, Lua, Fortran<br>
