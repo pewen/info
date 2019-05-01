@@ -58,23 +58,24 @@ Desarrollo de una aplicación web para mapeo colectivo. Además se cruzaron dato
 # ![](img/cortaderos.jpeg)
 
 # Observatorio de corrupción
-En este proyecto la idea es mostrar datos públicos del Estado. Todos los días scrapeamos www.cij.gob.ar para analizarlo y generar una interfaz gráfica.
+Mostrar datos públicos del Estado. Diariamente se scrapea el [Centro de Información Judicial](http://www.cij.gob.ar) para analizarlo y generar una interfaz gráfica.
 
-más de 5000 PDFs para extraer información<br>
-Scrapeo diario de 500 causas<br>
-Visualizaciones automáticas con nuevos datos<br>
++5000 PDFs para extraer información<br>
+Scraping diario de +500 causas<br>
+Visualizaciones automáticas con nuevos datos<br><br>
 [Observatorio de Causas de Corrupción](http://conocimientoabierto.org/observatorio-corrupcion/)
 
 # Socios.red
+Visualización de las relaciones del poder económico de Argentina  
 1 millón de empresas<br>
 2 millones de personas<br>
 Funcionarios públicos<br>
 60 mil aportes a campañas políticas<br>
-Compras del Estado <br>
+Compras del Estado <br><br>
 [socios.red](https://secret-device-211719.appspot.com/)
 
 # AMBA en datos
-más de 400 bases de datos<br>
++400 bases de datos<br>
 distintos tipos de datos georeferenciados: puntos, líneas, polígonos, municipios<br>
 plots multi capa sobre el mapa y gráficos adicionales como treemap y bar plots<br>
 interfaz web mobile responsible
