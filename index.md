@@ -12,7 +12,7 @@ Combinando matemática y TIC
 Sólida formación en Física y Matemática<br>
 Análisis de grandes cantidades de datos<br>
 Programación científica<br>
-Ciencia de Datos y machine learning<br>
+Ciencia de Datos y Machine Learning<br>
 Visualización de datos<br>
 
 # Áreas de trabajo
@@ -21,17 +21,19 @@ Visualización de datos<br>
  Implementación computacional<br>
  Optimización computacional<br>
  Implementación y análisis de machine learning<br>
- Automatización de procesos<br>
+ Automatización de procesos repetitivos<br>
  Visualización<br>
+ Procesamiento de imágenes satelitáles<br>
  GUI con HTML5
 
 # Tecnologías
- Python, Lua, Fortran, C<br>
+ Python, Lua, Fortran<br>
  D3 - JavaScript<br>
  Docker<br>
  GNU/Linux<br>
  Machine learning<br>
- NoSQL database
+ NoSQL database<br>
+ GIS
 
 # Algunos proyectos
 
@@ -41,7 +43,7 @@ UVLM es un código desarrollado en Fortran para hacer simulaciones de perfiles a
 Originalmente tardaba 1 semana. Luego de optimizaciones matemáticas y numéricas tarda 3 horas. Corre en 80 cores.
 
 # TEN - Simulaciones cuánticas
-Software para análisis cuánticos químicos. En este caso desarrollamos el modelo matemático y la implementación numérica para correr en cluster.
+Software para análisis cuánticos químicos. Desarrollo del modelo matemático y la implementación numérica para correr en cluster.
 
 [https://github.com/pewen/ten](https://github.com/pewen/ten)<br>
 [XVII Giambiagi Winter School. Light and light-based technologies](https://github.com/pewen/ten.extras/raw/master/2015_Giambiagi/poster_Giambiani.compressed.pdf), dpto de Física, UBA
@@ -87,8 +89,12 @@ A partir de los datos que releva [Aluar](https://www.aluar.com.ar/) en las cubas
 [Taller de Matemática Industrial 2018](http://mate.dm.uba.ar/~tami2018/), Exactas, UBA
 
 # ![](img/tami2019.png)
+Simulación de consumo de alumita en cuba de producción  
+azul: curva real<br>
+roja: curva simulada
 
 # Workshops
+[Tercer Escuela Argentina de GPGPU Computing para Aplicaciones Científicas](http://fisica.cab.cnea.gov.ar/gpgpu/index.php?option=com_content&view=article&id=37&Itemid=11&lang=es), Instituto Balseiro  
 [Advanced Techniques for Scientific Programming](http://indico.ictp.it/event/a14258/), Brazil<br>
 [Astro Hack Week 2016](http://astrohackweek.org/2016/), Berkeley, CA<br><br>
 
