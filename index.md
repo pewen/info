@@ -7,7 +7,7 @@ title:
 Matemática & TIC
 <br><br>
 
-> Presentación
+> Presentación.
 
 # Curriculum
 Sólida formación en Física y Matemática<br>
@@ -67,7 +67,7 @@ Visualizaciones automáticas con nuevos datos<br><br>
 [Observatorio de Causas de Corrupción](http://conocimientoabierto.org/observatorio-corrupcion/)
 
 # Socios.red
-Visualización de las relaciones del poder económico de Argentina  
+Visualización de las relaciones del poder económico de Argentina
 1 millón de empresas<br>
 2 millones de personas<br>
 Funcionarios públicos<br>
@@ -91,12 +91,12 @@ A partir de los datos que releva [Aluar](https://www.aluar.com.ar/) en las cubas
 [Taller de Matemática Industrial 2018](http://mate.dm.uba.ar/~tami2018/), Exactas, UBA
 
 # ![](img/tami2019.png)
-Simulación de consumo de alumita en cuba de producción  
+Simulación de consumo de alumita en cuba de producción
 azul: curva real<br>
 roja: curva simulada
 
 # Workshops
-[Tercer Escuela Argentina de GPGPU Computing para Aplicaciones Científicas](http://fisica.cab.cnea.gov.ar/gpgpu/index.php?option=com_content&view=article&id=37&Itemid=11&lang=es), Instituto Balseiro  
+[Tercer Escuela Argentina de GPGPU Computing para Aplicaciones Científicas](http://fisica.cab.cnea.gov.ar/gpgpu/index.php?option=com_content&view=article&id=37&Itemid=11&lang=es), Instituto Balseiro
 [Advanced Techniques for Scientific Programming](http://indico.ictp.it/event/a14258/), Brazil<br>
 [Astro Hack Week 2016](http://astrohackweek.org/2016/), Berkeley, CA<br><br>
 
