@@ -8,7 +8,12 @@
   <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
   <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no, minimal-ui">
   <link rel="stylesheet" href="reveal.js/css/reveal.css">
-  <style type="text/css">code{white-space: pre;}</style>
+  <style type="text/css">
+      code{white-space: pre-wrap;}
+      span.smallcaps{font-variant: small-caps;}
+      span.underline{text-decoration: underline;}
+      div.column{display: inline-block; vertical-align: top; width: 50%;}
+  </style>
   <link rel="stylesheet" href="reveal.js/css/theme/mozilla-devrel-dark.css" id="theme">
   <!-- Printing and PDF exports -->
   <script>
@@ -60,7 +65,7 @@
 <p><a href="https://github.com/pewen/ten" class="uri">https://github.com/pewen/ten</a><br> <a href="https://github.com/pewen/ten.extras/raw/master/2015_Giambiagi/poster_Giambiani.compressed.pdf">XVII Giambiagi Winter School. Light and light-based technologies</a>, dpto de Física, UBA</p>
 </section>
 <section id="section" class="slide level1">
-<h1><img src="img/ten.png" /></h1>
+<h1><img data-src="img/ten.png" /></h1>
 </section>
 <section id="mapeo-interactivo-y-análisis-de-cortaderos-de-ladrillos" class="slide level1">
 <h1>Mapeo interactivo y análisis de Cortaderos de Ladrillos</h1>
@@ -68,7 +73,7 @@
 <p><a href="https://www.chequeado.com/investigacion/muertes-infantiles-y-marginalidad-detras-de-los-ladrillos-cordobeses/">Muertes infantiles y marginalidad detrás de los ladrillos cordobeses</a></p>
 </section>
 <section id="section-1" class="slide level1">
-<h1><img src="img/cortaderos.jpeg" /></h1>
+<h1><img data-src="img/cortaderos.jpeg" /></h1>
 </section>
 <section id="observatorio-de-corrupción" class="slide level1">
 <h1>Observatorio de corrupción</h1>
@@ -85,10 +90,10 @@
 <p>+400 bases de datos<br> distintos tipos de datos georeferenciados: puntos, líneas, polígonos, municipios<br> plots multi capa sobre el mapa y gráficos adicionales como treemap y bar plots<br> interfaz web mobile responsible</p>
 </section>
 <section id="section-2" class="slide level1">
-<h1><img src="img/Screenshot_2019-04-27_10-24-06.png" /></h1>
+<h1><img data-src="img/Screenshot_2019-04-27_10-24-06.png" /></h1>
 </section>
 <section id="section-3" class="slide level1">
-<h1><img src="img/Screenshot_2019-04-27_10-25-58.png" /></h1>
+<h1><img data-src="img/Screenshot_2019-04-27_10-25-58.png" /></h1>
 </section>
 <section id="taller-de-matemática-industrial" class="slide level1">
 <h1>Taller de Matemática Industrial</h1>
@@ -96,7 +101,7 @@
 <p><a href="http://mate.dm.uba.ar/~tami2018/">Taller de Matemática Industrial 2018</a>, Exactas, UBA</p>
 </section>
 <section id="section-4" class="slide level1">
-<h1><img src="img/tami2019.png" /></h1>
+<h1><img data-src="img/tami2019.png" /></h1>
 <p>Simulación de consumo de alumita en cuba de producción<br />
 azul: curva real<br> roja: curva simulada</p>
 </section>
@@ -122,6 +127,8 @@ azul: curva real<br> roja: curva simulada</p>
       // Full list of configuration options available at:
       // https://github.com/hakimel/reveal.js#configuration
       Reveal.initialize({
+        // Push each slide change to the browser history
+        history: true,
 
         // Optional reveal.js plugins
         dependencies: [
