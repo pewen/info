@@ -4,7 +4,7 @@ title:
 ---
 
 # Pewen
-Combinando matemática y TIC
+Matemática & TIC
 <br><br>
 
 > Presentación
@@ -13,7 +13,7 @@ Combinando matemática y TIC
 Sólida formación en Física y Matemática<br>
 Análisis de grandes cantidades de datos<br>
 Programación científica<br>
-Ciencia de Datos y machine learning<br>
+Ciencia de Datos y Machine Learning<br>
 Visualización de datos<br>
 
 # Áreas de trabajo
@@ -22,17 +22,19 @@ Visualización de datos<br>
  Implementación computacional<br>
  Optimización computacional<br>
  Implementación y análisis de machine learning<br>
- Automatización de procesos<br>
+ Automatización de procesos repetitivos<br>
  Visualización<br>
- GUI con HTML5
+ Procesamiento de imágenes satelitáles<br>
+ GUI HTML5
 
 # Tecnologías
- Python, Lua, Fortran, C<br>
+ Python, Lua, Fortran<br>
  D3 - JavaScript<br>
  Docker<br>
  GNU/Linux<br>
  Machine learning<br>
- NoSQL database
+ NoSQL database<br>
+ GIS
 
 # Algunos proyectos
 
@@ -42,7 +44,7 @@ UVLM es un código desarrollado en Fortran para hacer simulaciones de perfiles a
 Originalmente tardaba 1 semana. Luego de optimizaciones matemáticas y numéricas tarda 3 horas. Corre en 80 cores.
 
 # TEN - Simulaciones cuánticas
-Software para análisis cuánticos químicos. En este caso desarrollamos el modelo matemático y la implementación numérica para correr en cluster.
+Software para análisis cuánticos químicos. Desarrollo del modelo matemático y la implementación numérica para correr en cluster.
 
 [https://github.com/pewen/ten](https://github.com/pewen/ten)<br>
 [XVII Giambiagi Winter School. Light and light-based technologies](https://github.com/pewen/ten.extras/raw/master/2015_Giambiagi/poster_Giambiani.compressed.pdf), dpto de Física, UBA
@@ -57,23 +59,24 @@ Desarrollo de una aplicación web para mapeo colectivo. Además se cruzaron dato
 # ![](img/cortaderos.jpeg)
 
 # Observatorio de corrupción
-En este proyecto la idea es mostrar datos públicos del Estado. Todos los días scrapeamos www.cij.gob.ar para analizarlo y generar una interfaz gráfica.
+Mostrar datos públicos del Estado. Diariamente se scrapea el [Centro de Información Judicial](http://www.cij.gob.ar) para analizarlo y generar una interfaz gráfica.
 
-más de 5000 PDFs para extraer información<br>
-Scrapeo diario de 500 causas<br>
-Visualizaciones automáticas con nuevos datos<br>
++5000 PDFs para extraer información<br>
+Scraping diario de +500 causas<br>
+Visualizaciones automáticas con nuevos datos<br><br>
 [Observatorio de Causas de Corrupción](http://conocimientoabierto.org/observatorio-corrupcion/)
 
 # Socios.red
+Visualización de las relaciones del poder económico de Argentina  
 1 millón de empresas<br>
 2 millones de personas<br>
 Funcionarios públicos<br>
 60 mil aportes a campañas políticas<br>
-Compras del Estado <br>
+Compras del Estado <br><br>
 [socios.red](https://secret-device-211719.appspot.com/)
 
 # AMBA en datos
-más de 400 bases de datos<br>
++400 bases de datos<br>
 distintos tipos de datos georeferenciados: puntos, líneas, polígonos, municipios<br>
 plots multi capa sobre el mapa y gráficos adicionales como treemap y bar plots<br>
 interfaz web mobile responsible
@@ -88,8 +91,12 @@ A partir de los datos que releva [Aluar](https://www.aluar.com.ar/) en las cubas
 [Taller de Matemática Industrial 2018](http://mate.dm.uba.ar/~tami2018/), Exactas, UBA
 
 # ![](img/tami2019.png)
+Simulación de consumo de alumita en cuba de producción  
+azul: curva real<br>
+roja: curva simulada
 
 # Workshops
+[Tercer Escuela Argentina de GPGPU Computing para Aplicaciones Científicas](http://fisica.cab.cnea.gov.ar/gpgpu/index.php?option=com_content&view=article&id=37&Itemid=11&lang=es), Instituto Balseiro  
 [Advanced Techniques for Scientific Programming](http://indico.ictp.it/event/a14258/), Brazil<br>
 [Astro Hack Week 2016](http://astrohackweek.org/2016/), Berkeley, CA<br><br>
 
