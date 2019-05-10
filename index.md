@@ -1,12 +1,13 @@
 ---
 pagetitle: Pewen
+title:
 ---
 
 # Pewen
 Combinando matemática y TIC
 <br><br>
 
-> Presentación para Rakiduamn
+> Presentación
 
 # Curriculum
 Sólida formación en Física y Matemática<br>
