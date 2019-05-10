@@ -5,9 +5,9 @@ title:
 
 # Pewen
 Matemática & TIC
-<br><br>
+<br><br><br>
 
-> Presentación.
+> Presentación
 
 # Curriculum
 Sólida formación en Física y Matemática<br>
