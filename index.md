@@ -34,7 +34,9 @@ Visualización de datos<br>
  GNU/Linux<br>
  Machine learning<br>
  NoSQL database<br>
- GIS
+ Time Series database<br>
+ Analytics and monitoring<br>
+ Geographic information system
 
 # Algunos proyectos
 
