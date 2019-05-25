@@ -98,9 +98,9 @@ azul: curva real<br>
 roja: curva simulada
 
 # Workshops
-[Tercer Escuela Argentina de GPGPU Computing para Aplicaciones Científicas](http://fisica.cab.cnea.gov.ar/gpgpu/index.php?option=com_content&view=article&id=37&Itemid=11&lang=es), Instituto Balseiro
-[Advanced Techniques for Scientific Programming](http://indico.ictp.it/event/a14258/), Brazil<br>
-[Astro Hack Week 2016](http://astrohackweek.org/2016/), Berkeley, CA<br><br>
+[Tercer Escuela Argentina de GPGPU Computing para Aplicaciones Científicas](http://fisica.cab.cnea.gov.ar/gpgpu/index.php?option=com_content&view=article&id=37&Itemid=11&lang=es), Instituto Balseiro<br>
+[Advanced Techniques for Scientific Programming](http://indico.ictp.it/event/a14258/), International Centre for Theoretical Physics, Brazil<br>
+[Astro Hack Week 2016](http://astrohackweek.org/2016/), University of California Berkeley<br><br>
 
 ## Curso dictado
 [Programación Científica en Python](https://pewen.tk/wpc/), Departamento de Ciencias de la Atmósfera y los Océanos, Exáctas, UBA
