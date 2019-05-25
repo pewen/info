@@ -68,6 +68,13 @@ Scraping diario de +500 causas<br>
 Visualizaciones automáticas con nuevos datos<br><br>
 [Observatorio de Causas de Corrupción](http://conocimientoabierto.org/observatorio-corrupcion/)
 
+# Quiniela Judicial. Entendiendo el sistema de asignacion de causas
+
+Las denuncias que generan una causa en la justicia federal se sortean a través de un programa informático para determinar el juzgado. Este sorteo debería ser “automático e igualitario”. Sin embargo, la aleatoriedad e independencia de este sistema de sorteos ha sido frecuentemente cuestionada.
+
+[Quiniela Judicial](https://conocimientoabierto.github.io/visualizaciones/sorteosJudiciales/)<br>
+[DATA SCIENCE: La lupa en la Justicia](http://blogs.lanacion.com.ar/data/entrevistas/data-science-franco-bellomo-pone-la-lupa-en-la-justicia/)
+
 # Socios.red
 Visualización de las relaciones del poder económico de Argentina
 1 millón de empresas<br>
@@ -109,4 +116,4 @@ roja: curva simulada
 NASA Space Apps Challenge: Best Mission Concept, “Piratas de Cascotes”, Bs As<br>
 NASA Space Apps Challenge: [Pollen Alert](https://youtu.be/9M91NDIaKHo) - Global Winner<br>
 “Predicción de Clicks”, 1er puesto. [Jampp](https://jampp.com/) y [Programa de Ciencia de Datos de Fundación Sadosky](http://www.fundacionsadosky.org.ar/programas/pcd/)<br>
-[Hackaton Agro Datos](http://www.fundacionsadosky.org.ar/agrodatos/), 3er puesto, “Germineitor”, FaMAF, Córdoba
+[Hackaton Agro Datos](http://www.fundacionsadosky.org.ar/agrodatos/), 3er puesto, “Germineitor”, FaMAF, Córdoba. [Programa de Ciencia de Datos de Fundación Sadosky](http://www.fundacionsadosky.org.ar/programas/pcd/)
