@@ -93,7 +93,7 @@ A partir de los datos que releva [Aluar](https://www.aluar.com.ar/) en las cubas
 [Taller de Matemática Industrial 2018](http://mate.dm.uba.ar/~tami2018/), Exactas, UBA
 
 # ![](img/tami2019.png)
-Simulación de consumo de alumita en cuba de producción
+Simulación de consumo de alumita en cuba de producción<br>
 azul: curva real<br>
 roja: curva simulada
 
