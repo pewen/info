@@ -46,7 +46,7 @@ UVLM es un código desarrollado en Fortran para hacer simulaciones de perfiles a
 Originalmente tardaba 1 semana. Luego de optimizaciones matemáticas y numéricas tarda 3 horas. Corre en 80 cores.
 
 # TEN - Simulaciones cuánticas
-Software para análisis cuánticos químicos. Desarrollo del modelo matemático y la implementación numérica para correr en cluster.
+Software para análisis cuánticos químicos. Desarrollo del modelo matemático y la implementación numérica para correr en cluster.<br><br>
 
 [https://github.com/pewen/ten](https://github.com/pewen/ten)<br>
 [XVII Giambiagi Winter School. Light and light-based technologies](https://github.com/pewen/ten.extras/raw/master/2015_Giambiagi/poster_Giambiani.compressed.pdf), dpto de Física, UBA
@@ -54,7 +54,7 @@ Software para análisis cuánticos químicos. Desarrollo del modelo matemático 
 # ![](img/ten.png)
 
 # Mapeo interactivo y análisis de Cortaderos de Ladrillos
-Desarrollo de una aplicación web para mapeo colectivo. Además se cruzaron datos con los del censo nacional para crear gráficos de las distribuciones de acceso a diferentes servicios básicos desde los cortaderos.
+Desarrollo de una aplicación web para mapeo colectivo. Además se cruzaron datos con los del censo nacional para crear gráficos de las distribuciones de acceso a diferentes servicios básicos desde los cortaderos.<br><br>
 
 [Muertes infantiles y marginalidad detrás de los ladrillos cordobeses]( https://www.chequeado.com/investigacion/muertes-infantiles-y-marginalidad-detras-de-los-ladrillos-cordobeses/)
 
@@ -66,14 +66,15 @@ Mostrar datos públicos del Estado. Diariamente se scrapea el [Centro de Informa
 +5000 PDFs para extraer información<br>
 Scraping diario de +500 causas<br>
 Visualizaciones automáticas con nuevos datos<br><br>
+
 [Observatorio de Causas de Corrupción](http://conocimientoabierto.org/observatorio-corrupcion/)
 
-# Quiniela Judicial. Entendiendo el sistema de asignacion de causas
+# Quiniela Judicial
 
-Las denuncias que generan una causa en la justicia federal se sortean a través de un programa informático para determinar el juzgado. Este sorteo debería ser “automático e igualitario”. Sin embargo, la aleatoriedad e independencia de este sistema de sorteos ha sido frecuentemente cuestionada.
+Las denuncias que generan una causa en la justicia federal se sortean a través de un programa informático para determinar el juzgado. Este sorteo debería ser “automático e igualitario”. Sin embargo, la aleatoriedad e independencia de este sistema de sorteos ha sido frecuentemente cuestionada.<br><br>
 
-[Quiniela Judicial](https://conocimientoabierto.github.io/visualizaciones/sorteosJudiciales/)<br>
-[DATA SCIENCE: La lupa en la Justicia](http://blogs.lanacion.com.ar/data/entrevistas/data-science-franco-bellomo-pone-la-lupa-en-la-justicia/)
+[Entendiendo el sistema de asignación de causas](https://conocimientoabierto.github.io/visualizaciones/sorteosJudiciales/)<br>
+[La lupa en la Justicia](http://blogs.lanacion.com.ar/data/entrevistas/data-science-franco-bellomo-pone-la-lupa-en-la-justicia/)
 
 # Socios.red
 Visualización de las relaciones del poder económico de Argentina
@@ -95,11 +96,12 @@ interfaz web mobile responsible
 # ![](img/Screenshot_2019-04-27_10-25-58.png)
 
 # Taller de Matemática Industrial
-A partir de los datos que releva [Aluar](https://www.aluar.com.ar/) en las cubas de producción de aluminio generamos un modelo matemático y numérico para simular el consumo de alumita.
+A partir de los datos que releva [Aluar](https://www.aluar.com.ar/) en las cubas de producción de aluminio generamos un modelo matemático y numérico para simular el consumo de alumita.<br><br>
 
 [Taller de Matemática Industrial 2018](http://mate.dm.uba.ar/~tami2018/), Exactas, UBA
 
-# ![](img/tami2019.png)
+# ![](img/tami2019.png)<br><br>
+
 Simulación de consumo de alumita en cuba de producción<br>
 azul: curva real<br>
 roja: curva simulada
